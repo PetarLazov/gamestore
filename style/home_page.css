@@ -16,3 +16,47 @@ body{
 #sign{
   color: gold;
 }
+
+.cont{
+  margin-top: 0.5%;
+  
+}
+
+ul{
+  list-style-type: none;
+}
+
+.col1{
+  width: 15%;
+  float: left;
+}
+
+.col2{
+  margin-left: 15%;
+}
+
+.navbar{
+  margin-bottom: 0.5%;
+}
+
+.center{
+  text-align: center;
+}
+
+.margin{
+  margin-top: 2%;
+}
+
+.card-deck{
+  margin-left: 0.2%;
+  margin-right: 0.2%;
+}
+
+.btn {
+  background: rgba(49,0,115,1);
+  border: none;
+}
+
+.btn:hover{
+  background: rgba(25,40,65,1);
+}
